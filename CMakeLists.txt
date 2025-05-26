@@ -10,8 +10,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 #设置源文件目录
 aux_source_directory(${PROJECT_SOURCE_DIR}/src SRC)
 
-#添加easyx头文件依赖
-include_directories(${PROJECT_SOURCE_DIR}/include)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR})
 
@@ -22,8 +20,11 @@ find_package(SFML 3.0.0 REQUIRED COMPONENTS Audio System )
 
 add_executable(main ${SRC})
 
-#添加easyx库文件依赖
-target_link_directories(main PRIVATE ${PROJECT_SOURCE_DIR}/lib)
+#添加头文件路径
+target_include_directories(main PRIVATE ${CMAKE_SOURCE_DIR}/include)
+
+#添加easyx库文件路径
+target_link_directories(main PRIVATE ${CMAKE_SOURCE_DIR}/lib)
 
 #链接easyx库
 target_link_libraries(main PRIVATE EasyXa)
