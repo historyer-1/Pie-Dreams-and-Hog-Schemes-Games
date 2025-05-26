@@ -8,16 +8,6 @@ events:
       - "CMakeLists.txt:5 (project)"
     message: |
       The system is: Windows - 10.0.26100 - AMD64
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
-      - "E:/vsbenti/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:205 (message)"
-      - "CMakeLists.txt:5 (project)"
-    message: |
-      The system is: Windows - 10.0.26100 - AMD64
   -
     kind: "message-v1"
     backtrace:
@@ -119,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-rlvwf7"
-      binary: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-rlvwf7"
+      source: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-jgpw8j"
+      binary: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-jgpw8j"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -129,11 +119,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-rlvwf7'
+        Change Dir: 'D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-jgpw8j'
         
-        Run Build Command(s): E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja\\ninja.exe -v cmTC_e8606
-        [1/2] E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_e8606.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_e8606.dir\\ /FS -c E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e8606.dir --rc="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\rc.exe" --mt="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\mt.exe" --manifests  -- E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e8606.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_e8606.exe /implib:cmTC_e8606.lib /pdb:cmTC_e8606.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja\\ninja.exe -v cmTC_4e4b7
+        [1/2] E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_4e4b7.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_4e4b7.dir\\ /FS -c E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_4e4b7.dir --rc="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\rc.exe" --mt="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\mt.exe" --manifests  -- E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4e4b7.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_4e4b7.exe /implib:cmTC_4e4b7.lib /pdb:cmTC_4e4b7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -173,8 +163,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-0mxtl4"
-      binary: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-0mxtl4"
+      source: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-8qv6zs"
+      binary: "D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-8qv6zs"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -184,11 +174,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-0mxtl4'
+        Change Dir: 'D:/project/Pie Dreams and Hog Schemes/build/CMakeFiles/CMakeScratch/TryCompile-8qv6zs'
         
-        Run Build Command(s): E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja\\ninja.exe -v cmTC_b683c
-        [1/2] E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_b683c.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_b683c.dir\\ /FS -c E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_b683c.dir --rc="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\rc.exe" --mt="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\mt.exe" --manifests  -- E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b683c.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_b683c.exe /implib:cmTC_b683c.lib /pdb:cmTC_b683c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja\\ninja.exe -v cmTC_d0106
+        [1/2] E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_d0106.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_d0106.dir\\ /FS -c E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && E:\\vsbenti\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_d0106.dir --rc="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\rc.exe" --mt="E:\\Windows Kits\\10\\bin\\10.0.22621.0\\x64\\mt.exe" --manifests  -- E:\\vsbenti\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d0106.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_d0106.exe /implib:cmTC_d0106.lib /pdb:cmTC_d0106.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -

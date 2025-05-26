@@ -26,7 +26,7 @@
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-a771e8e76cade1ff4d90.json",
+			"jsonFile" : "codemodel-v2-b096aa1cf2e824176b7d.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -108,7 +108,7 @@
 						}
 					},
 					{
-						"jsonFile" : "codemodel-v2-a771e8e76cade1ff4d90.json",
+						"jsonFile" : "codemodel-v2-b096aa1cf2e824176b7d.json",
 						"kind" : "codemodel",
 						"version" : 
 						{
@@ -123,70 +123,6 @@
 						{
 							"major" : 1,
 							"minor" : 0
-						}
-					}
-				]
-			}
-		},
-		"client-vscode" : 
-		{
-			"query.json" : 
-			{
-				"requests" : 
-				[
-					{
-						"kind" : "cache",
-						"version" : 2
-					},
-					{
-						"kind" : "codemodel",
-						"version" : 2
-					},
-					{
-						"kind" : "toolchains",
-						"version" : 1
-					},
-					{
-						"kind" : "cmakeFiles",
-						"version" : 1
-					}
-				],
-				"responses" : 
-				[
-					{
-						"jsonFile" : "cache-v2-164c280b6d3b22aefe45.json",
-						"kind" : "cache",
-						"version" : 
-						{
-							"major" : 2,
-							"minor" : 0
-						}
-					},
-					{
-						"jsonFile" : "codemodel-v2-a771e8e76cade1ff4d90.json",
-						"kind" : "codemodel",
-						"version" : 
-						{
-							"major" : 2,
-							"minor" : 8
-						}
-					},
-					{
-						"jsonFile" : "toolchains-v1-8e584a4db4e28beb3c3a.json",
-						"kind" : "toolchains",
-						"version" : 
-						{
-							"major" : 1,
-							"minor" : 0
-						}
-					},
-					{
-						"jsonFile" : "cmakeFiles-v1-d483d562061bd08f3eb1.json",
-						"kind" : "cmakeFiles",
-						"version" : 
-						{
-							"major" : 1,
-							"minor" : 1
 						}
 					}
 				]

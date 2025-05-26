@@ -1,3 +1,26 @@
 # ninja log v6
-33	1501	7693620854633962	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
-1502	1676	7693620869321089	D:/project/Pie Dreams and Hog Schemes/main.exe	bd30b4d70b20c891
+14	1423	7699632619663518	CMakeFiles/main.dir/src/constants.cpp.obj	d367dbd56896becf
+16	1457	7699632619687342	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+4	1541	7699632619573798	CMakeFiles/main.dir/src/amethod.cpp.obj	99b27cca1e75950f
+8	1569	7699632619610011	CMakeFiles/main.dir/src/anim.cpp.obj	83b308f21199bbb5
+49	1604	7699633822847350	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+43	1657	7699633822801389	CMakeFiles/main.dir/src/button.cpp.obj	cb3370b4724842df
+36	1760	7699633822727371	CMakeFiles/main.dir/src/amethod.cpp.obj	99b27cca1e75950f
+40	1803	7699633822777669	CMakeFiles/main.dir/src/anim.cpp.obj	83b308f21199bbb5
+42	1473	7699634142595771	CMakeFiles/main.dir/src/constants.cpp.obj	d367dbd56896becf
+46	1479	7699634142628961	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+39	1485	7699634142565721	CMakeFiles/main.dir/src/button.cpp.obj	cb3370b4724842df
+34	1623	7699634142517271	CMakeFiles/main.dir/src/amethod.cpp.obj	99b27cca1e75950f
+37	1642	7699634142551244	CMakeFiles/main.dir/src/anim.cpp.obj	83b308f21199bbb5
+1642	2047	7699634158605523	D:/project/Pie Dreams and Hog Schemes/main.exe	e26ce5fd36a1ba48
+15	1338	7699638829936952	CMakeFiles/main.dir/src/constants.cpp.obj	d367dbd56896becf
+19	1432	7699638829976957	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+1432	1705	7699638844111664	D:/project/Pie Dreams and Hog Schemes/main.exe	e26ce5fd36a1ba48
+39	1514	7699640927099418	CMakeFiles/main.dir/src/button.cpp.obj	cb3370b4724842df
+41	1528	7699640927123472	CMakeFiles/main.dir/src/constants.cpp.obj	d367dbd56896becf
+43	1558	7699640927153528	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+36	1604	7699640927079754	CMakeFiles/main.dir/src/anim.cpp.obj	83b308f21199bbb5
+33	1641	7699640927043604	CMakeFiles/main.dir/src/amethod.cpp.obj	99b27cca1e75950f
+1641	1897	7699640943126743	D:/project/Pie Dreams and Hog Schemes/main.exe	e26ce5fd36a1ba48
+32	1359	7699642089036986	CMakeFiles/main.dir/src/main.cpp.obj	1b89f33c9758c6ab
+1359	1546	7699642102312011	D:/project/Pie Dreams and Hog Schemes/main.exe	e26ce5fd36a1ba48
